@@ -13,7 +13,7 @@ Configuration Instructions:-
 2) Store the different classes of Animals into different folders here 10
 3) Do preprocessing using KMeans Segmentation
 4) Do artifical sythesis of Images using Data Augmentation to solve class imbalance
-5) Run the main.ipynb file as a Jupyter Notebook or Colab Notebook
+5) Run the Wild_Animal_Detection.ipynb file as a Jupyter Notebook or Colab Notebook
 
 Hardware Requirements:-
 1) RAM: 16GB or above
