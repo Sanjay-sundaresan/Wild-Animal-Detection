@@ -24,6 +24,4 @@ Software Requirements:-
 
 Path:- train_data_path is the path to training data and valid_data_path is the path to testing data
 
-Dataset Link:- https://www.kaggle.com/datasets/brsdincer/danger-of-extinction-animal-image-set 
 
-Segmented Images:- https://drive.google.com/drive/folders/1HDJvTt-uSEchqwI2iHNZR18n6ssETLOi
